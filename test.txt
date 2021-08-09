@@ -1,0 +1,2 @@
+this is my first time to use git
+I will learn how to do it for test
